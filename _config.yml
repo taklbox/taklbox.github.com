@@ -1,0 +1,2 @@
+auto: true
+permalink: /posts/:year/:month/:day/:title
