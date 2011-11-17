@@ -1,9 +1,0 @@
----
-layout: post
-title: Getting on board with jekyll
-category: taklbox
----
-h2. {{ page.title }}
-
-I bounce around, like a _LOT_, when it comes to blogging. I don't like doing it, but I want to. This is a constant internal struggle and my only outlet so far has been moving and creating blog spaces. I've been on wordpress.com, self hosted wordpress, posterous, tumblr, and blogger. They are all decent apps and all have features I like, but nothing can keep me engaged enough to actually write. Let's hope that this will be different. By the way, that line is in the first post of all my attempts.
-

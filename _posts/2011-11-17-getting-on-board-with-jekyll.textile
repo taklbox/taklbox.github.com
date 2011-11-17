@@ -1,0 +1,8 @@
+---
+layout: post
+title: Getting on board with jekyll
+category: taklbox
+---
+h2. {{ page.title }}
+
+I've been playing with the idea of utilizing services around the web to host a website completely free. There is no shortage of options available, but most have limitations to what you can do, or how your site can look. I've heard quite a bit about "jekyll":https://github.com/mojombo/jekyll, mostly in concert with "GitHub Pages":http://pages.github.com/. I like everything I've seen so far, so this is me giving it a spin.
