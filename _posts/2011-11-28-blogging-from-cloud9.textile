@@ -1,0 +1,8 @@
+---
+layout: post
+title: Blogging from cloud9
+category: taklbox
+---
+h2. {{ page.title }}
+
+This is an experimental post created in "cloud9":http://c9.io/
